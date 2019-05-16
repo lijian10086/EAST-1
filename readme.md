@@ -99,6 +99,8 @@ Here are some test examples on icdar2015, enjoy the beautiful text boxes!
 
 Please let me know if you encounter any issues(my email boostczc@gmail dot com).
 ### 代码研读博客，便于理解———李剑20190516
+https://blog.csdn.net/linchuhai/article/details/84677249
+EAST文本检测与Keras实现 huoyijie源码有bug,改博客有调整和复现
 http://www.pianshen.com/article/5870253952/
 EAST-tensorflow 源码解读
 
